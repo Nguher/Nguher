@@ -21,10 +21,6 @@ Let me tell you a little about me.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫About Me :
-👩‍💻 I'm Nguher Rejoice, a curious data analyst and an active learner 
-🌱I'm passionate about helping businesses solve their problems by making provisions for these businesses to be data-driven. I also love breaking down complex concepts. I specialize in turning complex datasets into clear, actionable insights.
-🌷 I share about my learnings and journey in tech on [LinkedIn](https://www.linkedin.com/in/nguhert?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) and [my blog](https://medium.com/@nguhert).
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nguher Tanguhwar ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nguhert) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nguher Tanguhwar ) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@nguhert) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Ngu_her) 
