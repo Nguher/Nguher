@@ -9,7 +9,7 @@ Let me tell you a little about me.
 
 <!-- !
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nguher&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/Nguher/github-readme-stats)
-
+(Nguher/github-readme-stats)
 
 🌱 Exploring new technologies and tools while also writing about them.
 
