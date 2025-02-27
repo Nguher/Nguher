@@ -8,10 +8,8 @@ Let me tell you a little about me.
 🌷 I share about my learnings and journey in tech on [LinkedIn](https://www.linkedin.com/in/nguhert?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) and [my blog](https://medium.com/@nguhert).
 
 <!-- !
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nguher&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nguher&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/Nguher/github-readme-stats)
 
-
-INTERESTS
 
 🌱 Exploring new technologies and tools while also writing about them.
 
